@@ -1,0 +1,16 @@
+[
+ {
+   "th": "สารคดี",
+   "cn": "非小说",
+   "vi": "Nội dung không phải tiểu thuyết",
+   "tw": "非小說",
+   "en": "Nonfiction"
+ },
+ {
+   "th": "วรรณกรรมเชิงบรรยาย",
+   "cn": "传记和回忆录",
+   "vi": "Tiểu sử và Hồi ký",
+   "tw": "傳記和回憶錄",
+   "en": "Biography and Memoir"
+ }
+]
